@@ -12,6 +12,5 @@ Various files and assets of games made by the [BagelBytes](https://www.youtube.c
   - Scored top 5.4% in the [2025 GMTK Game Jam](https://itch.io/jam/gmtk-2025) among games made in other game engines (e.g. Godot, Unity, Unreal, etc.)
 
 ## Socials
-YouTube: https://www.youtube.com/@BageIBytes
-
-Scratch: https://scratch.mit.edu/users/BageIBytes/
+- YouTube: https://www.youtube.com/@BageIBytes
+- Scratch: https://scratch.mit.edu/users/BageIBytes/
