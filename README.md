@@ -13,4 +13,5 @@ Various files and assets of games made by the [BagelBytes](https://www.youtube.c
 
 ## Socials
 YouTube: https://www.youtube.com/@BageIBytes
+
 Scratch: https://scratch.mit.edu/users/BageIBytes/
