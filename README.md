@@ -11,7 +11,7 @@ Various files and assets of games made by the [BagelBytes](https://www.youtube.c
   - Link (Scratch): https://scratch.mit.edu/projects/1203693628/
   - Scored top 5.4% in the [2025 GMTK Game Jam](https://itch.io/jam/gmtk-2025) in a highly competitive field featuring games made in other professional game engines (e.g. Godot, Unity, Unreal, etc.)
 
-## Moding
+## Modding
 Since our games are made in [Scratch](https://www.scratch.mit.edu), moding support is basically a built-in feature! To get started, simply download the project from the source (on Scratch), and make edits using various available editors (the default Scratch one is quite good, but so is [Turbowarp's](https://turbowarp.org/editor).
 
 Furthermore, if you would like guidance or have any questions, we are more than happy to chat and/or help on [Discord](https://discord.gg/9VVEH7cYXx)!
