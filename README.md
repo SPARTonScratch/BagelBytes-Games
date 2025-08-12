@@ -17,17 +17,17 @@ Since our games are made in [Scratch](https://www.scratch.mit.edu), moding suppo
 Furthermore, if you would like guidance or have any questions, we are available to chat and help on [Discord](https://discord.gg/9VVEH7cYXx)!
 
 ## Members
--[Challenger10k](https://www.youtube.com/@Challenger10K)
--[McTonk](https://www.youtube.com/@McTonk)
--[S_P_A_R_T](https://www.youtube.com/@SPARTonScratch)
--[Viiperrr](https://www.youtube.com/@bigfatsnakeviiper)
--[Cotufa](https://www.youtube.com/@CotufaPixel)
--[TwoSide](https://www.youtube.com/@realtwosidegames)
--[Patrixx](https://scratch.mit.edu/users/--Patrixx--/_
--[JacksonAcademy)](https://www.youtube.com/@JacksonAcademy1_
--[Yippymishy](https://www.youtube.com/@yippymishy)
--[Yeetachu](https://www.youtube.com/@YeetachuAnimation)
--[ExplosionsCentral](https://www.youtube.com/channel/UCFtIGBmE0Lk5jajxnLqhCDg)
+- [Challenger10k](https://www.youtube.com/@Challenger10K)
+- [McTonk](https://www.youtube.com/@McTonk)
+- [S_P_A_R_T](https://www.youtube.com/@SPARTonScratch)
+- [Viiperrr](https://www.youtube.com/@bigfatsnakeviiper)
+- [Cotufa](https://www.youtube.com/@CotufaPixel)
+- [TwoSide](https://www.youtube.com/@realtwosidegames)
+- [Patrixx](https://scratch.mit.edu/users/--Patrixx--/_
+- [JacksonAcademy)](https://www.youtube.com/@JacksonAcademy1_
+- [Yippymishy](https://www.youtube.com/@yippymishy)
+- [Yeetachu](https://www.youtube.com/@YeetachuAnimation)
+- [ExplosionsCentral](https://www.youtube.com/channel/UCFtIGBmE0Lk5jajxnLqhCDg)
 
 ## Socials
 - YouTube: https://www.youtube.com/@BageIBytes
