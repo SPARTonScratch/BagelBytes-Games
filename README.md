@@ -14,7 +14,7 @@ Various files and assets of games made by the [BagelBytes](https://www.youtube.c
 ## Moding
 Since our games are made in [Scratch](https://www.scratch.mit.edu), moding support is basically a built-in feature! To get started, simply download the project from the source (on Scratch), and make edits using various available editors (the default Scratch one is quite good, but so is [Turbowarp's](https://turbowarp.org/editor).
 
-Furthermore, if you would like guidance or have any questions, we are available to chat and help on [Discord](https://discord.gg/9VVEH7cYXx)!
+Furthermore, if you would like guidance or have any questions, we are more than happy to chat and/or help on [Discord](https://discord.gg/9VVEH7cYXx)!
 
 ## Members
 - [Challenger10k](https://www.youtube.com/@Challenger10K)
