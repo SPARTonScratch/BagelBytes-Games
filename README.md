@@ -23,8 +23,8 @@ Furthermore, if you would like guidance or have any questions, we are available 
 - [Viiperrr](https://www.youtube.com/@bigfatsnakeviiper)
 - [Cotufa](https://www.youtube.com/@CotufaPixel)
 - [TwoSide](https://www.youtube.com/@realtwosidegames)
-- [Patrixx](https://scratch.mit.edu/users/--Patrixx--/_
-- [JacksonAcademy)](https://www.youtube.com/@JacksonAcademy1_
+- [Patrixx](https://scratch.mit.edu/users/--Patrixx--/_)
+- [JacksonAcademy)](https://www.youtube.com/@JacksonAcademy1_)
 - [Yippymishy](https://www.youtube.com/@yippymishy)
 - [Yeetachu](https://www.youtube.com/@YeetachuAnimation)
 - [ExplosionsCentral](https://www.youtube.com/channel/UCFtIGBmE0Lk5jajxnLqhCDg)
